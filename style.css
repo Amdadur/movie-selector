@@ -1,0 +1,25 @@
+#body {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+.container {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    background-color: coral;
+}
+
+.subcontainer {
+    margin: 10px;
+    padding: 10px;
+    background-color: cornflowerblue;
+}
+
+.boat {
+    height: auto;
+    width: 120px;
+}
